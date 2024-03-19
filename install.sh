@@ -54,3 +54,4 @@ else
 fi
 
 success "Download and setup completed."
+
