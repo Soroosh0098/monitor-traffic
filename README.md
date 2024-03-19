@@ -31,7 +31,7 @@ Before using this script, ensure you have the following dependencies installed o
 To execute the script directly on your server, run the following command:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/Soroosh0098/monitor-traffic/main/installer.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/Soroosh0098/monitor-traffic/main/install.sh | sudo bash
 ```
 
 #### Download the Script
@@ -41,20 +41,20 @@ To download the script, you can use either curl or wget. Run one of the followin
 Using curl:
 
 ```
-curl -o installer.sh -L https://raw.githubusercontent.com/Soroosh0098/monitor-traffic/main/installer.sh
+curl -o install.sh -L https://raw.githubusercontent.com/Soroosh0098/monitor-traffic/main/install.sh
 ```
 
 Using wget:
 
 ```
-wget https://raw.githubusercontent.com/your-username/monitor-traffic/main/installer.sh -O installer.sh
+wget https://raw.githubusercontent.com/your-username/monitor-traffic/main/install.sh -O install.sh
 ```
 
 **Install the Project**: Once downloaded, make the script executable and run it to install the project:
 
 ```
-chmod +x installer.sh
-./installer.sh
+chmod +x install.sh
+./install.sh
 ```
 
 Finally Follow the on-screen prompts to complete the installation.
