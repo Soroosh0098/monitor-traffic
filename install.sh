@@ -22,7 +22,7 @@ success() {
     echo -e "${GREEN}[SUCCESS] $1${NC}"
 }
 
-REPO_URL="https://github.com/Soroosh0098/monitor-traffic.git"
+REPO_URL="https://github.com/Soroosh0098/monitor-traffic"
 
 TARGET_DIR="/root/monitor-traffic"
 
